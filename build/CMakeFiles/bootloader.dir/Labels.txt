@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/PROGRAMACION/proyectos/SW-420/build/CMakeFiles/bootloader
+C:/PROGRAMACION/proyectos/SW-420/build/CMakeFiles/bootloader.rule
+C:/PROGRAMACION/proyectos/SW-420/build/CMakeFiles/bootloader-complete.rule
+C:/PROGRAMACION/proyectos/SW-420/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/PROGRAMACION/proyectos/SW-420/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/PROGRAMACION/proyectos/SW-420/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/PROGRAMACION/proyectos/SW-420/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/PROGRAMACION/proyectos/SW-420/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/PROGRAMACION/proyectos/SW-420/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/PROGRAMACION/proyectos/SW-420/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
