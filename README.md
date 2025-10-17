@@ -2,7 +2,7 @@
 | ----------------- | ----- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 
 # _SW-420_
-![Modulo SW-420 usado]([URL_DE_TU_LOGO](https://docs.sunfounder.com/projects/umsk/es/latest/_images/24_sw420_vibration_module.png)
+![Modulo SW-420 usado](https://docs.sunfounder.com/projects/umsk/es/latest/_images/24_sw420_vibration_module.png)
 
 ## How to use example
 This example use GPIO 10 connected to DO terminal and GPIO 2 as the internal led on the esp32-c3-wroom-v2 the code configure a interruption DO_GPIO pin when the interruption happen an internal count goes up and the led turn on/off folowing the DO pin level.
